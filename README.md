@@ -6,11 +6,11 @@ Informações de quem fez:
 
 Informaçõe do programa:  
   Linguagens do programa: Python  
-  Programa comentado: Sim
-  Programa com icone: Não
-  Nome do icone: Não tem
-  Nome do arquivo do programa: Sorteio da Loterica.py
-  Tipo de programa: Sem interface
-  Versão da linguagem utlizada quando o programa foi feito: Python 3.9.2
-  Versão do programa: 1.0
-  O que o programa faz: O programa gera jogos da loterica automaticamente, o usuário precisa informar a quantidade de jogos, quantidade de números por jogos e o nome do arquivo apoós isso o usuário vai confirmar e o programa irá gerar um arquivo .csv com os jogos (arquivo .csv é um aquivo excel só que ele não tem nenhuma formatação).
+  Programa comentado: Sim  
+  Programa com icone: Não  
+  Nome do icone: Não tem  
+  Nome do arquivo do programa: Sorteio da Loterica.py  
+  Tipo de programa: Sem interface  
+  Versão da linguagem utlizada quando o programa foi feito: Python 3.9.2  
+  Versão do programa: 1.0  
+  O que o programa faz: O programa gera jogos da loterica automaticamente, o usuário precisa informar a quantidade de jogos, quantidade de números por jogos e o nome do arquivo apoós isso o usuário vai confirmar e o programa irá gerar um arquivo .csv com os jogos (arquivo .csv é um aquivo excel só que ele não tem nenhuma formatação).  
